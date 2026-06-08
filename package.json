@@ -1,0 +1,27 @@
+{
+  "name": "quickpaste",
+  "version": "1.0.0",
+  "description": "🚀 轻量级剪贴板增强工具 - 支持文本、图片、文件历史管理",
+  "main": "src/index.js",
+  "bin": {
+    "qp": "bin/qp.js"
+  },
+  "scripts": {
+    "start": "node bin/qp.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["clipboard", "剪贴板", "productivity", "windows", "cli"],
+  "author": "lihaoyu-code",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lihaoyu-code/quickpaste.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lihaoyu-code/quickpaste/issues"
+  },
+  "homepage": "https://github.com/lihaoyu-code/quickpaste#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
