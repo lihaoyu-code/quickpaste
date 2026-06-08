@@ -1,5 +1,13 @@
-# GitHub Sponsors 配置
-# 如果你觉得项目有用，请考虑赞助支持
+# 支持这些项目
 
-github: lihaoyu-code  # GitHub Sponsors
-custom: []  # 其他付款方式（未来可添加支付宝/微信）
+# 国内赞助方式
+# 1. 微信赞赏码（请放你的赞赏码图片链接）
+# 2. 支付宝红包码（请放你的红包码图片链接）
+# 3. 爱发电: https://afdian.com/@你的ID
+
+# 国际赞助方式
+ko_fi: lihaoyu
+custom: [
+  # 下面可以放微信/支付宝的图片链接
+  # "https://your-image-host.com/wechat-reward.png"
+]

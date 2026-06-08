@@ -59,9 +59,15 @@ qp stats
 
 ## ☕ 赞助
 
-如果你觉得这个项目对你有用，欢迎赞助支持我的开发：
+如果你觉得这个项目对你有用，欢迎支持！
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4%EF%B8%8F-%23EA4AAA)](https://github.com/sponsors/lihaoyu-code)
+| 方式 | 链接/二维码 |
+|------|------------|
+| 🌐 **爱发电** | https://afdian.com （搜索 lihaoyu-code） |
+| 🎯 **微信赞赏码** | *待主人上传二维码* |
+| ☕ **Buy Me a Coffee** | https://buymeacoffee.com/lihaoyu |
+
+也可以直接联系我定制工具或接私活，价格好商量。
 
 ## 📄 许可证
 
